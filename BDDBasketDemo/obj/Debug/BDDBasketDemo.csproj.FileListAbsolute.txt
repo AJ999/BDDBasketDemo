@@ -1,0 +1,13 @@
+C:\git\BDDBasketDemo\BDDBasketDemo\bin\Debug\BDDBasketDemo.dll.config
+C:\git\BDDBasketDemo\BDDBasketDemo\bin\Debug\BDDBasketDemo.dll
+C:\git\BDDBasketDemo\BDDBasketDemo\bin\Debug\BDDBasketDemo.pdb
+C:\git\BDDBasketDemo\BDDBasketDemo\bin\Debug\nunit.core.dll
+C:\git\BDDBasketDemo\BDDBasketDemo\bin\Debug\nunit.core.interfaces.dll
+C:\git\BDDBasketDemo\BDDBasketDemo\bin\Debug\nunit.framework.dll
+C:\git\BDDBasketDemo\BDDBasketDemo\bin\Debug\nunit.util.dll
+C:\git\BDDBasketDemo\BDDBasketDemo\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+C:\git\BDDBasketDemo\BDDBasketDemo\bin\Debug\TechTalk.SpecFlow.dll
+C:\git\BDDBasketDemo\BDDBasketDemo\bin\Debug\nunit.framework.xml
+C:\git\BDDBasketDemo\BDDBasketDemo\obj\Debug\BDDBasketDemo.csprojResolveAssemblyReference.cache
+C:\git\BDDBasketDemo\BDDBasketDemo\obj\Debug\BDDBasketDemo.dll
+C:\git\BDDBasketDemo\BDDBasketDemo\obj\Debug\BDDBasketDemo.pdb
